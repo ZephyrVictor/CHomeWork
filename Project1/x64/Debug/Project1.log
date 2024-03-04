@@ -1,0 +1,52 @@
+﻿E:\studying\coding\vs\community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+E:\studying\一\下\C\C大作业\C语言大作业\2022111915\Project1\main.cpp(62,23): warning C4101: “AddInfoButton_y”: 未引用的局部变量
+E:\studying\一\下\C\C大作业\C语言大作业\2022111915\Project1\main.cpp(63,6): warning C4101: “RemoveInfoButton_x”: 未引用的局部变量
+E:\studying\一\下\C\C大作业\C语言大作业\2022111915\Project1\main.cpp(61,6): warning C4101: “BackButton_x”: 未引用的局部变量
+E:\studying\一\下\C\C大作业\C语言大作业\2022111915\Project1\main.cpp(62,6): warning C4101: “AddInfoButton_x”: 未引用的局部变量
+E:\studying\一\下\C\C大作业\C语言大作业\2022111915\Project1\main.cpp(65,25): warning C4101: “complete1button_y”: 未引用的局部变量
+E:\studying\一\下\C\C大作业\C语言大作业\2022111915\Project1\main.cpp(61,20): warning C4101: “BackButton_y”: 未引用的局部变量
+E:\studying\一\下\C\C大作业\C语言大作业\2022111915\Project1\main.cpp(77,9): warning C4101: “j”: 未引用的局部变量
+E:\studying\一\下\C\C大作业\C语言大作业\2022111915\Project1\main.cpp(63,26): warning C4101: “RemoveInfoButton_y”: 未引用的局部变量
+E:\studying\一\下\C\C大作业\C语言大作业\2022111915\Project1\main.cpp(65,6): warning C4101: “complete1button_x”: 未引用的局部变量
+E:\studying\一\下\C\C大作业\C语言大作业\2022111915\Project1\main.cpp(630,23): warning C4101: “AddInfoButton_y”: 未引用的局部变量
+E:\studying\一\下\C\C大作业\C语言大作业\2022111915\Project1\main.cpp(629,6): warning C4101: “BackButton_x”: 未引用的局部变量
+E:\studying\一\下\C\C大作业\C语言大作业\2022111915\Project1\main.cpp(630,6): warning C4101: “AddInfoButton_x”: 未引用的局部变量
+E:\studying\一\下\C\C大作业\C语言大作业\2022111915\Project1\main.cpp(632,25): warning C4101: “complete1button_y”: 未引用的局部变量
+E:\studying\一\下\C\C大作业\C语言大作业\2022111915\Project1\main.cpp(629,20): warning C4101: “BackButton_y”: 未引用的局部变量
+E:\studying\一\下\C\C大作业\C语言大作业\2022111915\Project1\main.cpp(642,9): warning C4101: “j”: 未引用的局部变量
+E:\studying\一\下\C\C大作业\C语言大作业\2022111915\Project1\main.cpp(632,6): warning C4101: “complete1button_x”: 未引用的局部变量
+E:\studying\一\下\C\C大作业\C语言大作业\2022111915\Project1\main.cpp(1123,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\studying\一\下\C\C大作业\C语言大作业\2022111915\Project1\main.cpp(1124,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  LINK : 没有找到 E:\studying\一\下\C\C大作业\C语言大作业\2022111915\x64\Debug\StudentManager.exe 或上一个增量链接没有生成它；正在执行完全链接
+graphics1964.lib(graphics.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(graphics.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(egegapi.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(egegapi.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(image.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(image.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(egecontrolbase.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(egecontrolbase.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(logo.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(logo.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(color.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(color.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(compress.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(compress.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(uncompr.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(uncompr.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(png.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(png.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(pngread.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(pngread.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(pngwrite.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(pngwrite.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(pngrtran.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(pngrtran.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(pngtrans.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(pngtrans.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(pngmem.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(pngmem.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(pngget.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(pngget.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(pngset.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(pngset.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(deflate.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(deflate.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(inflate.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(inflate.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(pngerror.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(pngerror.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(crc32.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(crc32.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(pngrio.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(pngrio.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(pngrutil.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(pngrutil.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(pngwutil.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(pngwutil.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(pngwio.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(pngwio.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(pngwtran.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(pngwtran.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(trees.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(trees.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(adler32.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(adler32.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(zutil.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(zutil.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(inftrees.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(inftrees.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1964.lib(inffast.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics1964.lib(inffast.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  Project1.vcxproj -> E:\studying\一\下\C\C大作业\C语言大作业\2022111915\x64\Debug\StudentManager.exe
